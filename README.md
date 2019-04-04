@@ -6,4 +6,4 @@ This repository contains the various 3D models that I have created for my own us
 
 This work is licensed under the terms of 
 [Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
-Their commercial use us prohibited.
+Their commercial use is prohibited.
