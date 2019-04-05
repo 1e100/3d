@@ -6,7 +6,7 @@ This repository contains the various 3D models that I have created for my own us
 
 Images should be pretty self-explanatory
 
- * Triple-laptop holder for Carbon X1 laptops. 18mm "gaps". Print with 50% infill. [model](models/3-laptop-stand.stl)
+ * Triple-laptop holder for Carbon X1 laptops. 18mm "gaps". Print with 50% infill. [Model](models/3-laptop-stand.stl)
  * GPU "spreader" for quad-GPU machines. Improves airflow.
  * Cat food paper bowl holder.
 
