@@ -5,7 +5,7 @@ drive_width = 101.6;     // Drive width in mm
 tolerance = 0.6;    // Tolerance in mm for snug fit
 wall_thickness = 3; // Wall thickness in mm
 divider_thickness = 3; // Divider thickness in mm
-floor_thickness = 5; // Floor thickness in mm
+floor_thickness = 3; // Floor thickness in mm
 height = 100;       // Total box height in mm
 
 // Computed values
